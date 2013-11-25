@@ -5,6 +5,12 @@
 ### Requirements
 
 * Python 2.7
+* 
+ubuntu
+*sudo apt-get install mysql-server mysql-client
+*sudo  apt-get install libmysqld-dev
+*sudo apt-get install python-dev
+* 
 
 ### install Virtualenv
 
